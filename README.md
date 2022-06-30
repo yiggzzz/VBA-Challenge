@@ -45,6 +45,8 @@ Percent runtime reduction = (0.640625/0.7265625) * 100
 
 Percent runtime reduction = 88.17204
 
+<br>
+
 The result is 88.17% overall reduction in runtime while maintaining the same functionality. 
 
 
