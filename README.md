@@ -15,7 +15,7 @@ The purpose of this challenge is to create a VBA macro that can trigger pop-ups 
 
 ## Analysis and Challenges
 
-The biggest challenge was debugging syntax errors or array errors, remembering my syntax, and diagnosing the problem with the code when running into errors. 
+The biggest challenge was debugging syntax errors or array errors, remembering my syntax, and diagnosing the problem within the code when running into errors. 
 
 ## Results
 
@@ -34,10 +34,13 @@ The refractored code looped over all the data for a given year only once while s
 The percent decrease in runtime is calculated below as (2017 data):
 
 Original time - new time = overall decrease
+
 0.7265625 - 0.0859375 = 0.640625
 
 Percent runtime reduction = (Overall decrease / original time) * 100 
+
 Percent runtime reduction = (0.640625/0.7265625) * 100 
+
 Percent runtime reduction = 88.17204
 
 The result is 88.17% overall reduction in runtime while maintaining the same functionality. 
