@@ -7,13 +7,11 @@ Stakeholder interests are to perform an analysis on thousands of stocks over mul
 
 The project challenge is to apply code that organizes, calculates, and formats information. We used for loops and if-then statements to create arrays that store values. This allowed the user to loop information into categories and to further format numbers with different colors. VBA allows a user to write a complicated script that performs complex analyses, which cannot only be done on Excel.
 
-pic here of the code
+![VBA_Challenge](VBA_Challenge.png)
 
 ### Purpose
 
 The purpose of this challenge is to create a VBA macro that can trigger pop-ups and inputs, read and change cells values, and format cells, using for loops, nested for loops, and conditionals to direct logic flow. 
-
-![VBA_Challenge](VBA_Challenge.png)
 
 ## Analysis and Challenges
 
