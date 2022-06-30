@@ -5,7 +5,7 @@ Stakeholder interests are to perform an analysis on thousands of stocks over mul
 
 ## Overview of Project
 
-The project challenge is to apply code that organizes, calculates, and formats information. We used for loops and if-then statements to create arrays that store values. This allowed the user to loop information into categories and to further format numbers with different colors. VBA allows a user to write a complicated script that performs complex analyses, which cannot only be done on Excel.
+The project challenge is to apply code that organizes, calculates, and formats information. The code uses for loops and if-then statements to create arrays that store values. This allowed the user to loop information into categories and to further format numbers with different colors. VBA allows a user to write a complicated script that performs complex analyses, which cannot only be done on Excel.
 
 ![VBA_Challenge](VBA_Challenge.png)
 
