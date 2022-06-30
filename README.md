@@ -1,4 +1,4 @@
-### VBA Challenge
+VBA Challenge
 
 ## Background
 Stakeholder interests are to perform an analysis on thousands of stocks over multiple years using Excel and VBA.
