@@ -38,6 +38,7 @@ Original time - new time = overall decrease
 0.7265625 - 0.0859375 = 0.640625
 
 
+
 Percent runtime reduction = (Overall decrease / original time) * 100 
 
 Percent runtime reduction = (0.640625/0.7265625) * 100 
