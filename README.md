@@ -13,17 +13,33 @@ pic here of the code
 
 The purpose of this challenge is to create a VBA macro that can trigger pop-ups and inputs, read and change cells values, and format cells, using for loops, nested for loops, and conditionals to direct logic flow. 
 
+![VBA_Challenge](VBA_Challenge.png)
+
 ## Analysis and Challenges
 
 The biggest challenge was debugging syntax errors or array errors, remembering my syntax, and diagnosing the problem with the code when running into errors. 
 
 ## Results
 
-- Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+The initial code loops over the entire year's worth of stock data for each stock of interest. This code needed 12 different iterations over a whole year's data. The results of two years that are analyzed is shown below:
+
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+The refractored code looped over all the data for a given year only once while still saving all the values needed to update the table.
+
+![VBA_Challenge_2017_refactored](VBA_Challenge_2017_refactored.png)
+
+![VBA_Challenge_2018_refactored](VBA_Challenge_2018_refactored.png)
+
+The percent decrease in runtime is calculated below as (2017 data):
+
+Overall decrease = original time - new time
+
 
 ## Summary
 
-![VBA_Challenge_2017 elapsed time](VBA_Challenge_2017_refactored.png)
 
 
 - What are the advantages or disadvantages of refactoring code?
